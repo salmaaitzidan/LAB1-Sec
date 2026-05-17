@@ -11,8 +11,9 @@
 ```bash
 sha256sum ~/Téléchargements/Mobexler.ova
 
-<img width="661" height="74" alt="image" src="https://github.com/user-attachments/assets/b1bffb73-ec5c-48ba-9a25-95ee59c8bff5" />
-
+──(salma㉿kali)-[~/Téléchargements]
+└─$ sha256sum Mobexler.ova
+07c40d1456b564313996f8a8bd5402e9ebb825d7b817c5031c52396231ddf188  Mobexler.ova
 
 ```
 
